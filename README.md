@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumardev0614
-- 👀 I’m interested in learning about technology.
-- 🌱 I’m currently learning Fundamentals of Data Science.
-- 💞️ I’m looking to collaborate on python, SQL, Data Analysis, basic Machine learning projets.
+- 👀 I’m interested in learning new skills.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on python, SQL, Data Analysis, basic Machine learning projets and Flutter app development.
 - 📫 How to reach me https://www.linkedin.com/in/devendra-bharti-34333314b/
 
 <!---
